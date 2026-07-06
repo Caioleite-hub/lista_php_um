@@ -23,3 +23,5 @@ echo "Valor de X é: $x_usuario <br>";
 echo "Valor de X é: $y_usuario <br>";
 echo "Resultado: " . calcularFormula($x, $y);
 
+?>
+
